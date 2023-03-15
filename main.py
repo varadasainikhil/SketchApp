@@ -21,7 +21,7 @@ def move_left():
 
 
 def clear():
-    turtle.clear()
+    turtle.reset()
 
 
 screen.listen()
